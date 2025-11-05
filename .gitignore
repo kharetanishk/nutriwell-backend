@@ -1,0 +1,20 @@
+# dependencies
+node_modules
+
+# build output
+dist
+
+# environment variables
+.env
+
+# prisma client
+src/generated/prisma
+
+# logs
+logs
+*.log
+
+# misc
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
